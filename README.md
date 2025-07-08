@@ -52,5 +52,5 @@ Every solution we build prioritizes universal accessibility, supporting everythi
 ---
 
 <div align="center">
-<sub>Building the future of African technology, one solution at a time.</sub>
+<sub>Transforming Africa Through Intelligent Technology Solutions</sub>
 </div>
